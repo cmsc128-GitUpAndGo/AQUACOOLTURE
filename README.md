@@ -50,8 +50,6 @@ The application is planned to support the following operations:
 - Established the proposed MERN technology stack for the web-based application.
 - Developed initial website wireframes for the visitor homepage, logged-in member homepage, and logged-in admin homepage.
 - Created the initial sitemap to organize the application's public pages, member features, and administrative functions.
-Identified the proposed inventory and supply request workflows.
-Prepared the initial project structure and design direction for the next sprint.
 
 ### Sprint 1 Deliverables
 
